@@ -9,6 +9,6 @@ public class sum {
         Scanner sc = new Scanner(System.in);
         a = sc.nextInt();
         b = sc.nextInt();
-        System.out.println(a+b);
+        System.out.println("Sum of a and b"+a+b);
     }
 }
